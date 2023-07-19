@@ -237,10 +237,10 @@
 # sent_id = batch-0000-0010
 # text = 《圆月弯刀》为古龙晚期作品，1976年6月至1978年5月，香港〈武侠春秋〉282至348期断续连载，原名《刀神》，1978年汉麟出版改名《圆月弯刀》。
 1	《	O	-	-
-2	圆	B-OTH	-	linpq
-3	月	I-OTH	-	linpq
-4	弯	I-OTH	-	linpq
-5	刀	I-OTH	-	linpq
+2	圆	O	-	-
+3	月	O	-	-
+4	弯	O	-	-
+5	刀	O	-	-
 6	》	O	-	-
 7	为	O	-	-
 8	古龙	B-PER	-	linpq
@@ -259,8 +259,8 @@
 21	，	O	-	-
 22	香港	B-LOC	-	linpq
 23	〈	O	-	-
-24	武侠	B-OTH	-	linpq
-25	春秋	I-OTH	-	linpq
+24	武侠	O	-	-
+25	春秋	O	-	-
 26	〉	O	-	-
 27	282	O	-	-
 28	至	O	-	-
@@ -271,7 +271,7 @@
 33	，	O	-	-
 34	原名	O	-	-
 35	《	O	-	-
-36	刀神	B-OTH	-	linpq
+36	刀神	O	-	-
 37	》	O	-	-
 38	，	O	-	-
 39	1978	O	-	-
@@ -280,10 +280,10 @@
 42	出版	O	-	-
 43	改名	O	-	-
 44	《	O	-	-
-45	圆	B-OTH	-	linpq
-46	月	I-OTH	-	linpq
-47	弯	I-OTH	-	linpq
-48	刀	I-OTH	-	linpq
+45	圆	O	-	-
+46	月	O	-	-
+47	弯	O	-	-
+48	刀	O	-	-
 49	》	O	-	-
 50	。	O	-	-
 
@@ -949,9 +949,9 @@
 13	则	O	-	-
 14	多	O	-	-
 15	以	O	-	-
-16	法	B-OTH	-	linpq
+16	法	O	-	-
 17	、	O	-	-
-18	德	B-OTH	-	linpq
+18	德	O	-	-
 19	两	O	-	-
 20	文	O	-	-
 21	记载	O	-	-
@@ -959,8 +959,8 @@
 23	教会	O	-	-
 24	用	O	-	-
 25	的	O	-	-
-26	拉丁	B-OTH	-	linpq
-27	文	I-OTH	-	linpq
+26	拉丁	O	-	-
+27	文	O	-	-
 28	。	O	-	-
 
 # sent_id = batch-0001-0007
@@ -1032,8 +1032,8 @@
 7	在	O	-	-
 8	南非	B-LOC	-	linpq
 9	对	O	-	-
-10	印度	B-OTH	-	linpq
-11	人	I-OTH	-	linpq
+10	印度	O	-	-
+11	人	O	-	-
 12	的	O	-	-
 13	歧视	O	-	-
 14	。	O	-	-
@@ -1048,8 +1048,8 @@
 6	能	O	-	-
 7	建立	O	-	-
 8	保障	O	-	-
-9	印度	B-OTH	-	linpq
-10	人民	I-OTH	-	linpq
+9	印度	O	-	-
+10	人民	O	-	-
 11	自由	O	-	-
 12	的	O	-	-
 13	政府	O	-	-
@@ -1468,14 +1468,14 @@
 # sent_id = batch-0001-0026
 # text = 《进化特区》（英文：Evolution）是2001年首映的一部美国科幻喜剧电影。
 1	《	O	-	-
-2	进化	B-OTH	-	linpq
-3	特区	I-OTH	-	linpq
+2	进化	O	-	-
+3	特区	O	-	-
 4	》	O	-	-
 5	（	O	-	-
 6	英	O	-	-
 7	文	O	-	-
 8	：	O	-	-
-9	Evolution	B-OTH	-	linpq
+9	Evolution	O	-	-
 10	）	O	-	-
 11	是	O	-	-
 12	2001	O	-	-
@@ -2065,8 +2065,8 @@
 17	度	O	-	-
 18	最高	O	-	-
 19	的	O	-	-
-20	德国	B-OTH	-	linpq
-21	人	I-OTH	-	linpq
+20	德国	O	-	-
+21	人	O	-	-
 22	。	O	-	-
 
 # sent_id = batch-0002-0018
@@ -2293,7 +2293,7 @@
 19	被	O	-	-
 20	派任	O	-	-
 21	苏门答腊	B-LOC	-	linpq
-22	瑞典	B-OTH	-	linpq
+22	瑞典	O	-	-
 23	领事	O	-	-
 24	，	O	-	-
 25	1921	O	-	-
@@ -2342,9 +2342,9 @@
 29	条约	O	-	-
 30	》	O	-	-
 31	限定	O	-	-
-32	魏玛	B-OTH	-	linpq
-33	共和	I-OTH	-	linpq
-34	国	I-OTH	-	linpq
+32	魏玛	O	-	-
+33	共和	O	-	-
+34	国	O	-	-
 35	只	O	-	-
 36	能	O	-	-
 37	拥有	O	-	-
@@ -2560,21 +2560,21 @@
 8	，	O	-	-
 9	分别	O	-	-
 10	有	O	-	-
-11	英	B-OTH	-	linpq
-12	文	I-OTH	-	linpq
+11	英	O	-	-
+12	文	O	-	-
 13	、	O	-	-
-14	中	B-OTH	-	linpq
-15	文	I-OTH	-	linpq
+14	中	O	-	-
+15	文	O	-	-
 16	、	O	-	-
-17	福建	B-OTH	-	linpq
-18	话	I-OTH	-	linpq
+17	福建	O	-	-
+18	话	O	-	-
 19	、	O	-	-
-20	广东	B-OTH	-	linpq
-21	话	I-OTH	-	linpq
+20	广东	O	-	-
+21	话	O	-	-
 22	、	O	-	-
 23	与	O	-	-
-24	印尼	B-OTH	-	linpq
-25	文	I-OTH	-	linpq
+24	印尼	O	-	-
+25	文	O	-	-
 26	聚会	O	-	-
 27	。	O	-	-
 
@@ -3069,13 +3069,13 @@
 8	的	O	-	-
 9	专著	O	-	-
 10	《	O	-	-
-11	苏门答腊	B-OTH	-	linpq
-12	岛	I-OTH	-	linpq
-13	与	I-OTH	-	linpq
-14	西	I-OTH	-	linpq
-15	马来西亚	I-OTH	-	linpq
-16	的	I-OTH	-	linpq
-17	猪笼草	I-OTH	-	linpq
+11	苏门答腊	O	-	-
+12	岛	O	-	-
+13	与	O	-	-
+14	西	O	-	-
+15	马来西亚	O	-	-
+16	的	O	-	-
+17	猪笼草	O	-	-
 18	》	O	-	-
 19	中	O	-	-
 20	拒绝	O	-	-
@@ -3114,8 +3114,8 @@
 5	一世	I-PER	-	linpq
 6	抵御	O	-	-
 7	了	O	-	-
-8	奥斯曼	B-OTH	-	linpq
-9	帝国	I-OTH	-	linpq
+8	奥斯曼	O	-	-
+9	帝国	O	-	-
 10	苏丹	B-PER	-	linpq
 11	苏里曼	I-PER	-	linpq
 12	一世	I-PER	-	linpq
@@ -3379,9 +3379,9 @@
 
 # sent_id = batch-0004-0009
 # text = 古罗马人利用拱结构来支撑桥身石材与水流的重量。
-1	古	B-OTH	-	linpq
-2	罗马	I-OTH	-	linpq
-3	人	I-OTH	-	linpq
+1	古	O	-	-
+2	罗马	O	-	-
+3	人	O	-	-
 4	利用	O	-	-
 5	拱	O	-	-
 6	结构	O	-	-
@@ -3422,9 +3422,9 @@
 23	有些	O	-	-
 24	原版	O	-	-
 25	《	O	-	-
-26	时	B-OTH	-	linpq
-27	之	I-OTH	-	linpq
-28	笛	I-OTH	-	linpq
+26	时	O	-	-
+27	之	O	-	-
+28	笛	O	-	-
 29	》	O	-	-
 30	存在	O	-	-
 31	的	O	-	-
@@ -3781,8 +3781,8 @@
 2	雇用	O	-	-
 3	一	O	-	-
 4	位	O	-	-
-5	法	B-OTH	-	linpq
-6	语	I-OTH	-	linpq
+5	法	O	-	-
+6	语	O	-	-
 7	向导	O	-	-
 8	后	O	-	-
 9	，	O	-	-
@@ -4027,12 +4027,12 @@
 6	威廉斯	I-PER	-	linpq
 7	的	O	-	-
 8	《	O	-	-
-9	热	B-OTH	-	linpq
-10	铁皮	I-OTH	-	linpq
-11	屋顶	I-OTH	-	linpq
-12	上	I-OTH	-	linpq
-13	的	I-OTH	-	linpq
-14	猫	I-OTH	-	linpq
+9	热	O	-	-
+10	铁皮	O	-	-
+11	屋顶	O	-	-
+12	上	O	-	-
+13	的	O	-	-
+14	猫	O	-	-
 15	》	O	-	-
 16	中	O	-	-
 17	汲取	O	-	-
@@ -4053,7 +4053,7 @@
 9	在位	O	-	-
 10	期间	O	-	-
 11	，	O	-	-
-12	夏	B-OTH	-	linpq
+12	夏	O	-	-
 13	部族	O	-	-
 14	权威	O	-	-
 15	削弱	O	-	-
@@ -4110,8 +4110,8 @@
 
 # sent_id = batch-0005-0006
 # text = 日本人提出请夏继泉出任山东省省长，后来又提出请他任教育督办等职务，均被夏继泉拒绝。
-1	日本	B-OTH	-	linpq
-2	人	I-OTH	-	linpq
+1	日本	O	-	-
+2	人	O	-	-
 3	提出	O	-	-
 4	请	O	-	-
 5	夏	B-PER	-	linpq
@@ -4489,8 +4489,8 @@
 10	徐	I-PER	-	linpq
 11	维邦	I-PER	-	linpq
 12	的	O	-	-
-13	中国	B-OTH	-	linpq
-14	人	I-OTH	-	linpq
+13	中国	O	-	-
+14	人	O	-	-
 15	兴趣	O	-	-
 16	，	O	-	-
 17	他	O	-	-
@@ -4574,11 +4574,11 @@
 # sent_id = batch-0005-0022
 # text = 《夜行神龙》（Gargoyles）是美国迪士尼公司推出的动画影集，从1994年到1997年播出，共78集，每集30分钟（含广告的时间）。
 1	《	O	-	-
-2	夜行	B-OTH	-	linpq
-3	神龙	I-OTH	-	linpq
+2	夜行	O	-	-
+3	神龙	O	-	-
 4	》	O	-	-
 5	（	O	-	-
-6	Gargoyles	B-OTH	-	linpq
+6	Gargoyles	O	-	-
 7	）	O	-	-
 8	是	O	-	-
 9	美国	B-ORG	-	linpq
@@ -4703,8 +4703,8 @@
 9	月	O	-	-
 10	）	O	-	-
 11	是	O	-	-
-12	元	B-OTH	-	linpq
-13	朝	I-OTH	-	linpq
+12	元	O	-	-
+13	朝	O	-	-
 14	时期	O	-	-
 15	陈	B-PER	-	linpq
 16	友谅	I-PER	-	linpq
@@ -4725,12 +4725,12 @@
 4	自治	I-LOC	-	linpq
 5	县	I-LOC	-	linpq
 6	有	O	-	-
-7	波斯	B-OTH	-	linpq
-8	人	I-OTH	-	linpq
+7	波斯	O	-	-
+8	人	O	-	-
 9	聚居	O	-	-
 10	，	O	-	-
 11	流行	O	-	-
-12	波斯	B-OTH	-	linpq
+12	波斯	O	-	-
 13	文化	O	-	-
 14	。	O	-	-
 
@@ -4741,8 +4741,8 @@
 3	伊斯兰	O	-	-
 4	时期	O	-	-
 5	，	O	-	-
-6	伊朗	B-OTH	-	linpq
-7	人	I-OTH	-	linpq
+6	伊朗	O	-	-
+7	人	O	-	-
 8	将	O	-	-
 9	他们	O	-	-
 10	的	O	-	-
@@ -5023,10 +5023,10 @@
 16	凡尔纳	B-PER	-	linpq
 17	的	O	-	-
 18	小说	O	-	-
-19	环游	B-OTH	-	linpq
-20	世界	I-OTH	-	linpq
-21	八十	I-OTH	-	linpq
-22	天	I-OTH	-	linpq
+19	环游	O	-	-
+20	世界	O	-	-
+21	八十	O	-	-
+22	天	O	-	-
 23	中	O	-	-
 24	名	O	-	-
 25	为	O	-	-
@@ -5656,14 +5656,14 @@
 14	（	O	-	-
 15	一	O	-	-
 16	为	O	-	-
-17	葡萄牙	B-OTH	-	linpq
-18	籍	I-OTH	-	linpq
+17	葡萄牙	O	-	-
+18	籍	O	-	-
 19	，	O	-	-
 20	另	O	-	-
 21	一	O	-	-
 22	为	O	-	-
-23	西班牙	B-OTH	-	linpq
-24	籍	I-OTH	-	linpq
+23	西班牙	O	-	-
+24	籍	O	-	-
 25	）	O	-	-
 26	。	O	-	-
 
@@ -5791,7 +5791,7 @@
 
 # sent_id = batch-0007-0008
 # text = Rize在当年的圣丹斯电影节首映。
-1	Rize	B-OTH	-	linpq
+1	Rize	O	-	-
 2	在	O	-	-
 3	当年	O	-	-
 4	的	O	-	-
@@ -5807,8 +5807,8 @@
 2	也	O	-	-
 3	参与	O	-	-
 4	了	O	-	-
-5	Courtney	B-OTH	-	linpq
-6	Love	I-OTH	-	linpq
+5	Courtney	O	-	-
+6	Love	O	-	-
 7	新	O	-	-
 8	专辑	O	-	-
 9	的	O	-	-
@@ -5844,8 +5844,8 @@
 # sent_id = batch-0007-0011
 # text = 《纽约时报》认为本剧“深刻地揭示了现实生活中，野心与自省之间的无休止争斗”。
 1	《	O	-	-
-2	纽约	B-OTH	-	linpq
-3	时报	I-OTH	-	linpq
+2	纽约	O	-	-
+3	时报	O	-	-
 4	》	O	-	-
 5	认为	O	-	-
 6	本剧	O	-	-
@@ -6021,7 +6021,7 @@
 # sent_id = batch-0007-0017
 # text = 最终沙俄战败，规划未能实现。
 1	最终	O	-	-
-2	沙俄	B-OTH	-	linpq
+2	沙俄	O	-	-
 3	战败	O	-	-
 4	，	O	-	-
 5	规划	O	-	-
@@ -6072,11 +6072,11 @@
 # sent_id = batch-0007-0020
 # text = 《大雄的宇宙开拓史》，是藤子·F·不二雄执笔，于1980年9月号到1981年2月连载于《快乐快乐月刊》月刊，是《哆啦A梦》大长篇的一部分。
 1	《	O	-	-
-2	大雄	B-OTH	-	linpq
-3	的	I-OTH	-	linpq
-4	宇宙	I-OTH	-	linpq
-5	开拓	I-OTH	-	linpq
-6	史	I-OTH	-	linpq
+2	大雄	O	-	-
+3	的	O	-	-
+4	宇宙	O	-	-
+5	开拓	O	-	-
+6	史	O	-	-
 7	》	O	-	-
 8	，	O	-	-
 9	是	O	-	-
@@ -6101,15 +6101,15 @@
 28	连载	O	-	-
 29	于	O	-	-
 30	《	O	-	-
-31	快乐	B-OTH	-	linpq
-32	快乐	I-OTH	-	linpq
-33	月刊	I-OTH	-	linpq
+31	快乐	O	-	-
+32	快乐	O	-	-
+33	月刊	O	-	-
 34	》	O	-	-
 35	月刊	O	-	-
 36	，	O	-	-
 37	是	O	-	-
 38	《	O	-	-
-39	哆啦A梦	B-OTH	-	linpq
+39	哆啦A梦	O	-	-
 40	》	O	-	-
 41	大	O	-	-
 42	长篇	O	-	-
@@ -6399,8 +6399,8 @@
 7	禁教	O	-	-
 8	，	O	-	-
 9	将	O	-	-
-10	法国	B-OTH	-	linpq
-11	籍	I-OTH	-	linpq
+10	法国	O	-	-
+11	籍	O	-	-
 12	主教	O	-	-
 13	徐德新	B-PER	-	linpq
 14	等	O	-	-
@@ -6521,8 +6521,8 @@
 9	不同	O	-	-
 10	，	O	-	-
 11	《	O	-	-
-12	天地	B-OTH	-	linpq
-13	创造	I-OTH	-	linpq
+12	天地	O	-	-
+13	创造	O	-	-
 14	》	O	-	-
 15	引入	O	-	-
 16	了	O	-	-
@@ -7450,14 +7450,14 @@
 22	级	O	-	-
 23	会议	O	-	-
 24	，	O	-	-
-25	美国	B-OTH	-	linpq
+25	美国	O	-	-
 26	太平	O	-	-
 27	洋	O	-	-
 28	地区	O	-	-
 29	总	O	-	-
 30	司令	O	-	-
 31	和	O	-	-
-32	澳洲	B-OTH	-	linpq
+32	澳洲	O	-	-
 33	参谋	O	-	-
 34	总长	O	-	-
 35	也	O	-	-
@@ -7465,10 +7465,10 @@
 37	进行	O	-	-
 38	咨商	O	-	-
 39	，	O	-	-
-40	美国	B-OTH	-	linpq
+40	美国	O	-	-
 41	国务卿	O	-	-
 42	和	O	-	-
-43	澳洲	B-OTH	-	linpq
+43	澳洲	O	-	-
 44	外交	O	-	-
 45	部长	O	-	-
 46	每年	O	-	-
@@ -7664,8 +7664,8 @@
 3	丰臣	B-PER	-	linpq
 4	秀吉	I-PER	-	linpq
 5	在	O	-	-
-6	日本	B-OTH	-	linpq
-7	人	I-OTH	-	linpq
+6	日本	O	-	-
+7	人	O	-	-
 8	心中	O	-	-
 9	的	O	-	-
 10	影响	O	-	-
@@ -8006,9 +8006,9 @@
 16	颁布	O	-	-
 17	的	O	-	-
 18	《	O	-	-
-19	法国	B-OTH	-	linpq
-20	民法	I-OTH	-	linpq
-21	典	I-OTH	-	linpq
+19	法国	O	-	-
+20	民法	O	-	-
+21	典	O	-	-
 22	》	O	-	-
 23	。	O	-	-
 
@@ -8035,7 +8035,7 @@
 1	中	O	-	-
 2	世纪	O	-	-
 3	的	O	-	-
-4	印度	B-OTH	-	linpq
+4	印度	O	-	-
 5	大	O	-	-
 6	哲学	O	-	-
 7	家	O	-	-
@@ -8052,13 +8052,13 @@
 18	它们	O	-	-
 19	为	O	-	-
 20	“	O	-	-
-21	主要	B-OTH	-	linpq
-22	奥义	I-OTH	-	linpq
-23	书	I-OTH	-	linpq
+21	主要	O	-	-
+22	奥义	O	-	-
+23	书	O	-	-
 24	”	O	-	-
 25	（	O	-	-
-26	Mukhya	B-OTH	-	linpq
-27	Upanishad	I-OTH	-	linpq
+26	Mukhya	O	-	-
+27	Upanishad	O	-	-
 28	）	O	-	-
 29	。	O	-	-
 
@@ -8148,7 +8148,7 @@
 2	本国	O	-	-
 3	很久	O	-	-
 4	的	O	-	-
-5	阿凯亚	B-OTH	-	linpq
+5	阿凯亚	O	-	-
 6	首领	O	-	-
 7	们	O	-	-
 8	纷纷	O	-	-
@@ -8222,13 +8222,13 @@
 
 # sent_id = batch-0010-0009
 # text = 奥斯曼旗帜是指奥斯曼王朝苏丹使用的任何一面旗帜，包括奥斯曼帝国的各种旗帜，以及苏丹在不同场合使用的旗帜。
-1	奥斯曼	B-OTH	-	linpq
+1	奥斯曼	O	-	-
 2	旗帜	O	-	-
 3	是	O	-	-
 4	指	O	-	-
-5	奥斯曼	B-OTH	-	linpq
-6	王朝	I-OTH	-	linpq
-7	苏丹	I-OTH	-	linpq
+5	奥斯曼	O	-	-
+6	王朝	O	-	-
+7	苏丹	O	-	-
 8	使用	O	-	-
 9	的	O	-	-
 10	任何	O	-	-
@@ -8237,14 +8237,14 @@
 13	旗帜	O	-	-
 14	，	O	-	-
 15	包括	O	-	-
-16	奥斯曼	B-OTH	-	linpq
-17	帝国	I-OTH	-	linpq
+16	奥斯曼	O	-	-
+17	帝国	O	-	-
 18	的	O	-	-
 19	各种	O	-	-
 20	旗帜	O	-	-
 21	，	O	-	-
 22	以及	O	-	-
-23	苏丹	B-OTH	-	linpq
+23	苏丹	O	-	-
 24	在	O	-	-
 25	不同	O	-	-
 26	场合	O	-	-
@@ -8556,12 +8556,12 @@
 # text = 古代，奥塞提亚语曾采用希腊字母拼写，现代则使用一套改良过的西里尔字母。
 1	古代	O	-	-
 2	，	O	-	-
-3	奥塞提亚	B-OTH	-	linpq
-4	语	I-OTH	-	linpq
+3	奥塞提亚	O	-	-
+4	语	O	-	-
 5	曾	O	-	-
 6	采用	O	-	-
-7	希腊	B-OTH	-	linpq
-8	字母	I-OTH	-	linpq
+7	希腊	O	-	-
+8	字母	O	-	-
 9	拼写	O	-	-
 10	，	O	-	-
 11	现代	O	-	-
@@ -8572,8 +8572,8 @@
 16	改良	O	-	-
 17	过	O	-	-
 18	的	O	-	-
-19	西里尔	B-OTH	-	linpq
-20	字母	I-OTH	-	linpq
+19	西里尔	O	-	-
+20	字母	O	-	-
 21	。	O	-	-
 
 # sent_id = batch-0010-0021
@@ -8773,9 +8773,9 @@
 14	支	O	-	-
 15	直挂	O	-	-
 16	的	O	-	-
-17	奥兰治	B-OTH	-	linpq
-18	自由	I-OTH	-	linpq
-19	邦	I-OTH	-	linpq
+17	奥兰治	O	-	-
+18	自由	O	-	-
+19	邦	O	-	-
 20	国旗	O	-	-
 21	，	O	-	-
 22	就	O	-	-
@@ -8933,8 +8933,8 @@
 17	观众	O	-	-
 18	收看	O	-	-
 19	〈	O	-	-
-20	新闻	B-OTH	-	linpq
-21	炮	I-OTH	-	linpq
+20	新闻	O	-	-
+21	炮	O	-	-
 22	〉	O	-	-
 23	，	O	-	-
 24	新闻	O	-	-
@@ -9128,12 +9128,12 @@
 
 # sent_id = batch-0011-0010
 # text = 女真语最初使用女真文，后来这种文字渐渐消亡。
-1	女真	B-OTH	-	linpq
-2	语	I-OTH	-	linpq
+1	女真	O	-	-
+2	语	O	-	-
 3	最初	O	-	-
 4	使用	O	-	-
-5	女真	B-OTH	-	linpq
-6	文	I-OTH	-	linpq
+5	女真	O	-	-
+6	文	O	-	-
 7	，	O	-	-
 8	后来	O	-	-
 9	这	O	-	-
@@ -9198,7 +9198,7 @@
 5	可	O	-	-
 6	溯	O	-	-
 7	至	O	-	-
-8	明朝	B-OTH	-	linpq
+8	明朝	O	-	-
 9	。	O	-	-
 
 # sent_id = batch-0011-0014
@@ -9630,14 +9630,14 @@
 5	音乐	O	-	-
 6	剧	O	-	-
 7	《	O	-	-
-8	琥珀	B-OTH	-	linpq
+8	琥珀	O	-	-
 9	》	O	-	-
 10	以及	O	-	-
 11	儿童	O	-	-
 12	狂欢	O	-	-
 13	剧	O	-	-
 14	《	O	-	-
-15	魔山	B-OTH	-	linpq
+15	魔山	O	-	-
 16	》	O	-	-
 17	的	O	-	-
 18	音乐	O	-	-
@@ -9659,7 +9659,7 @@
 11	在	O	-	-
 12	年底	O	-	-
 13	《	O	-	-
-14	Grazia	B-OTH	-	linpq
+14	Grazia	O	-	-
 15	》	O	-	-
 16	杂志	O	-	-
 17	评选	O	-	-
@@ -9760,7 +9760,7 @@
 7	德国	B-LOC	-	linpq
 8	出生	O	-	-
 9	的	O	-	-
-10	美国	B-OTH	-	linpq
+10	美国	O	-	-
 11	应用	O	-	-
 12	数学	O	-	-
 13	家	O	-	-
@@ -10103,7 +10103,7 @@
 23	包括	O	-	-
 24	5	O	-	-
 25	位	O	-	-
-26	美国	B-OTH	-	linpq
+26	美国	O	-	-
 27	总统	O	-	-
 28	和	O	-	-
 29	12	O	-	-
@@ -10138,7 +10138,7 @@
 58	和	O	-	-
 59	许许多多	O	-	-
 60	的	O	-	-
-61	美国	B-OTH	-	linpq
+61	美国	O	-	-
 62	国务	O	-	-
 63	卿	O	-	-
 64	（	O	-	-
@@ -10298,7 +10298,7 @@
 3	的	O	-	-
 4	四周	O	-	-
 5	是	O	-	-
-6	威斯特法伦	B-OTH	-	linpq
+6	威斯特法伦	O	-	-
 7	的	O	-	-
 8	王冠	O	-	-
 9	和	O	-	-
@@ -10399,8 +10399,8 @@
 # sent_id = batch-0012-0023
 # text = 《婚前特急》，2011年4月1日上映的日本电影。
 1	《	O	-	-
-2	婚前	B-OTH	-	linpq
-3	特急	I-OTH	-	linpq
+2	婚前	O	-	-
+3	特急	O	-	-
 4	》	O	-	-
 5	，	O	-	-
 6	2011	O	-	-
@@ -10481,10 +10481,10 @@
 3	宫	I-LOC	-	linpq
 4	始建	O	-	-
 5	于	O	-	-
-6	明代	B-OTH	-	linpq
-7	成化	I-OTH	-	linpq
-8	三	I-OTH	-	linpq
-9	年	I-OTH	-	linpq
+6	明代	O	-	-
+7	成化	O	-	-
+8	三	O	-	-
+9	年	O	-	-
 10	，	O	-	-
 11	初称	O	-	-
 12	“	O	-	-
@@ -10499,8 +10499,8 @@
 21	最	O	-	-
 22	古老	O	-	-
 23	的	O	-	-
-24	明	B-OTH	-	linpq
-25	清	I-OTH	-	linpq
+24	明	O	-	-
+25	清	O	-	-
 26	砖木	O	-	-
 27	结构	O	-	-
 28	建筑	O	-	-
@@ -10509,7 +10509,7 @@
 
 # sent_id = batch-0012-0027
 # text = 唐国的末期国君叫做唐叔虞。
-1	唐国	B-OTH	-	linpq
+1	唐国	O	-	-
 2	的	O	-	-
 3	末期	O	-	-
 4	国君	O	-	-
@@ -10818,7 +10818,7 @@
 6	加盟	O	-	-
 7	NBA	O	-	-
 8	之	O	-	-
-9	中国	B-OTH	-	linpq
+9	中国	O	-	-
 10	篮球	O	-	-
 11	运动	O	-	-
 12	员	O	-	-
@@ -10840,7 +10840,7 @@
 28	NBA	O	-	-
 29	首发	O	-	-
 30	的	O	-	-
-31	中国	B-OTH	-	linpq
+31	中国	O	-	-
 32	球员	O	-	-
 33	。	O	-	-
 
@@ -10906,13 +10906,13 @@
 1	孟	B-PER	-	linpq
 2	道	I-PER	-	linpq
 3	，	O	-	-
-4	五	B-OTH	-	linpq
-5	代	I-OTH	-	linpq
-6	十	I-OTH	-	linpq
-7	国	I-OTH	-	linpq
-8	邢州	I-OTH	-	linpq
-9	龙冈	I-OTH	-	linpq
-10	人	I-OTH	-	linpq
+4	五	O	-	-
+5	代	O	-	-
+6	十	O	-	-
+7	国	O	-	-
+8	邢州	O	-	-
+9	龙冈	O	-	-
+10	人	O	-	-
 11	，	O	-	-
 12	为	O	-	-
 13	邢州	B-LOC	-	linpq
@@ -10971,13 +10971,13 @@
 
 # sent_id = batch-0013-0016
 # text = 孤海浮灯（The Likes of Us）是名作曲家安德鲁·洛伊·韦伯的音乐剧，原书由莱斯利·汤玛斯基于慈善家汤玛斯·约翰成立贫困儿童院的真实故事创作。
-1	孤海	B-OTH	-	linpq
-2	浮灯	I-OTH	-	linpq
+1	孤海	O	-	-
+2	浮灯	O	-	-
 3	（	O	-	-
-4	The	B-OTH	-	linpq
-5	Likes	I-OTH	-	linpq
-6	of	I-OTH	-	linpq
-7	Us	I-OTH	-	linpq
+4	The	O	-	-
+5	Likes	O	-	-
+6	of	O	-	-
+7	Us	O	-	-
 8	）	O	-	-
 9	是	O	-	-
 10	名	O	-	-
@@ -11019,11 +11019,11 @@
 2	观点	O	-	-
 3	认为	O	-	-
 4	，	O	-	-
-5	朝鲜	B-OTH	-	linpq
-6	语	I-OTH	-	linpq
+5	朝鲜	O	-	-
+6	语	O	-	-
 7	和	O	-	-
-8	日	B-OTH	-	linpq
-9	语	I-OTH	-	linpq
+8	日	O	-	-
+9	语	O	-	-
 10	也是	O	-	-
 11	孤立	O	-	-
 12	语言	O	-	-
@@ -11049,14 +11049,14 @@
 3	孤立	O	-	-
 4	语言	O	-	-
 5	如	O	-	-
-6	苏美尔	B-OTH	-	linpq
-7	语	I-OTH	-	linpq
+6	苏美尔	O	-	-
+7	语	O	-	-
 8	、	O	-	-
-9	巴斯克	B-OTH	-	linpq
-10	语	I-OTH	-	linpq
+9	巴斯克	O	-	-
+10	语	O	-	-
 11	、	O	-	-
-12	阿伊努	B-OTH	-	linpq
-13	语	I-OTH	-	linpq
+12	阿伊努	O	-	-
+13	语	O	-	-
 14	等	O	-	-
 15	。	O	-	-
 
@@ -11126,7 +11126,7 @@
 1	角色	O	-	-
 2	名字	O	-	-
 3	参考	O	-	-
-4	日本	B-OTH	-	linpq
+4	日本	O	-	-
 5	知名	O	-	-
 6	漫画	O	-	-
 7	家	O	-	-
@@ -11140,13 +11140,13 @@
 2	年	O	-	-
 3	签订	O	-	-
 4	的	O	-	-
-5	中	B-OTH	-	linpq
-6	俄	I-OTH	-	linpq
-7	北京	I-OTH	-	linpq
-8	条约	I-OTH	-	linpq
+5	中	O	-	-
+6	俄	O	-	-
+7	北京	O	-	-
+8	条约	O	-	-
 9	中	O	-	-
 10	规定	O	-	-
-11	清	B-OTH	-	linpq
+11	清	O	-	-
 12	政府	O	-	-
 13	须	O	-	-
 14	将	O	-	-
@@ -11154,7 +11154,7 @@
 16	大	O	-	-
 17	部份	O	-	-
 18	割予	O	-	-
-19	沙俄	B-OTH	-	linpq
+19	沙俄	O	-	-
 20	，	O	-	-
 21	今	O	-	-
 22	归	O	-	-
@@ -11212,7 +11212,7 @@
 14	特别	O	-	-
 15	是	O	-	-
 16	抗	O	-	-
-17	日	B-OTH	-	linpq
+17	日	O	-	-
 18	战争	O	-	-
 19	时期	O	-	-
 20	，	O	-	-
@@ -11280,7 +11280,7 @@
 # text = 至少从宋代开始，明州即供奉纪信为城隍。
 1	至少	O	-	-
 2	从	O	-	-
-3	宋代	B-OTH	-	linpq
+3	宋代	O	-	-
 4	开始	O	-	-
 5	，	O	-	-
 6	明州	B-LOC	-	linpq
@@ -11419,8 +11419,8 @@
 31	声线	O	-	-
 32	，	O	-	-
 33	为	O	-	-
-34	华	B-OTH	-	linpq
-35	语	I-OTH	-	linpq
+34	华	O	-	-
+35	语	O	-	-
 36	乐坛	O	-	-
 37	又	O	-	-
 38	带来	O	-	-
@@ -11644,12 +11644,12 @@
 # sent_id = batch-0014-0010
 # text = 据阿卡德史诗《埃努玛·埃利什》的记载，安努是安莎尔与吉莎尔之子。
 1	据	O	-	-
-2	阿卡德	B-OTH	-	linpq
+2	阿卡德	O	-	-
 3	史诗	O	-	-
 4	《	O	-	-
-5	埃努玛	B-OTH	-	linpq
-6	·	I-OTH	-	linpq
-7	埃利什	I-OTH	-	linpq
+5	埃努玛	O	-	-
+6	·	O	-	-
+7	埃利什	O	-	-
 8	》	O	-	-
 9	的	O	-	-
 10	记载	O	-	-
@@ -11745,8 +11745,8 @@
 10	不得	O	-	-
 11	不	O	-	-
 12	转入	O	-	-
-13	犹太	B-OTH	-	linpq
-14	人	I-OTH	-	linpq
+13	犹太	O	-	-
+14	人	O	-	-
 15	学校	O	-	-
 16	就读	O	-	-
 17	，	O	-	-
@@ -11823,8 +11823,8 @@
 # text = 根据台湾乌克兰籍艺人瑞莎的说法，瑞纱与贝索诺娃在德里乌矜斯学校同时接受韵律体操的训练，住在同一间寝室。
 1	根据	O	-	-
 2	台湾	B-LOC	-	linpq
-3	乌克兰	B-OTH	-	linpq
-4	籍	I-OTH	-	linpq
+3	乌克兰	O	-	-
+4	籍	O	-	-
 5	艺人	O	-	-
 6	瑞莎	B-PER	-	linpq
 7	的	O	-	-
@@ -11896,8 +11896,8 @@
 21	，	O	-	-
 22	正	O	-	-
 23	如	O	-	-
-24	美国	B-OTH	-	linpq
-25	人	I-OTH	-	linpq
+24	美国	O	-	-
+25	人	O	-	-
 26	姓名	O	-	-
 27	的	O	-	-
 28	中间	O	-	-
@@ -11938,8 +11938,8 @@
 11	1941	O	-	-
 12	年	O	-	-
 13	加入	O	-	-
-14	美国	B-OTH	-	linpq
-15	国籍	I-OTH	-	linpq
+14	美国	O	-	-
+15	国籍	O	-	-
 16	。	O	-	-
 
 # sent_id = batch-0014-0022
@@ -12162,8 +12162,8 @@
 # text = 依据《海巡勤务》所列，安检所内一般勤务可分为几种：值班、安检、守望、监卸、巡逻、备勤。
 1	依据	O	-	-
 2	《	O	-	-
-3	海巡	B-OTH	-	linpq
-4	勤务	I-OTH	-	linpq
+3	海巡	O	-	-
+4	勤务	O	-	-
 5	》	O	-	-
 6	所	O	-	-
 7	列	O	-	-
@@ -12314,8 +12314,8 @@
 5	最	O	-	-
 6	成功	O	-	-
 7	的	O	-	-
-8	亚	B-OTH	-	linpq
-9	裔	I-OTH	-	linpq
+8	亚	O	-	-
+9	裔	O	-	-
 10	歌手	O	-	-
 11	，	O	-	-
 12	在	O	-	-
@@ -12650,7 +12650,7 @@
 2	年	O	-	-
 3	12	O	-	-
 4	月	O	-	-
-5	美国	B-OTH	-	linpq
+5	美国	O	-	-
 6	总统	O	-	-
 7	艾森豪威尔	B-PER	-	linpq
 8	访问	O	-	-
@@ -12729,14 +12729,14 @@
 4	，	O	-	-
 5	兼办	O	-	-
 6	《	O	-	-
-7	天	B-OTH	-	linpq
-8	行	I-OTH	-	linpq
-9	报	I-OTH	-	linpq
+7	天	O	-	-
+8	行	O	-	-
+9	报	O	-	-
 10	》	O	-	-
 11	、	O	-	-
 12	《	O	-	-
-13	原子	B-OTH	-	linpq
-14	能	I-OTH	-	linpq
+13	原子	O	-	-
+14	能	O	-	-
 15	》	O	-	-
 16	杂志	O	-	-
 17	。	O	-	-
@@ -12820,8 +12820,8 @@
 
 # sent_id = batch-0015-0026
 # text = 英语中定语从句中甚至还可能包含定语从句，即多重定语从句。
-1	英	B-OTH	-	linpq
-2	语	I-OTH	-	linpq
+1	英	O	-	-
+2	语	O	-	-
 3	中	O	-	-
 4	定语	O	-	-
 5	从句	O	-	-
